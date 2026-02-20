@@ -1,3 +1,4 @@
+// Mike Criollo - 117698615
 #ifndef MY_BIT_MANIPULATION_H
 #define MY_BIT_MANIPULATION_H
 

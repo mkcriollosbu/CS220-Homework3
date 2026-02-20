@@ -1,3 +1,4 @@
+// Mike Criollo - 117698615
 // HW3 Starter Code
 #include "MyBitManipulation.h"
 #include <stdio.h>
@@ -46,7 +47,7 @@ int ClearBitRange(int num, int start, int end) {
    // minus 1, makes all right zeros from 1 (ones) 0100 -> 0011
    // << start, pushes the group of 1s to the correct range location 
    
-   num = num & ~(rangeMask)
+   num = num & ~(rangeMask);
    // x and 0 = 0 (clears)
    // x and 1 = x (keeps)
 
